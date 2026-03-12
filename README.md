@@ -65,8 +65,7 @@ VisorGIS
     │   └── App.tsx
     │
     ├── public
-    │   └── icons
-    │       └── home.png
+    │   └── home.png
     │
     ├── vite.config.ts
     └── package.json
@@ -184,6 +183,34 @@ Ideas futuras:
 * 🗺 clustering de ciudades
 * ✈ animación de rutas entre ciudades
 * 🧑‍🚀 timeline de viajes
+
+## 🚧 Ideas / TODO
+
+### Funcionalidad del visor
+
+- [ ] Cargar las ciudades solo cuando el usuario pulse un botón
+- [ ] Añadir un panel lateral para introducir nuevos destinos
+- [ ] Mostrar información al pasar el ratón por una ciudad
+- [ ] Permitir varias visitas a la misma ciudad
+- [ ] Mostrar fechas de visita o periodos de residencia
+
+### Visualización
+
+- [ ] Ordenar las rutas de viaje cronológicamente
+- [ ] Animar el recorrido de los viajes en el mapa
+- [ ] Mejorar iconos de ciudades base
+
+### Datos geográficos
+
+- [ ] Crear tabla para países asociados a libros
+- [ ] Añadir capa para colorear países
+- [ ] Permitir activar/desactivar capas en el visor
+
+### UX
+
+- [ ] Añadir popup al hacer click en una ciudad
+- [ ] Mostrar nombre de ciudad con labels
+- [ ] Añadir panel de filtros
 
 ---
 

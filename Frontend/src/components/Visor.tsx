@@ -99,7 +99,7 @@ export default function VisorCesium() {
   */
     <div
       ref={containerRef}
-      style={{ width: "80%", height: "80vh" }}
+      style={{ width: "85%", height: "85vh" }}
     />
   )
 }
